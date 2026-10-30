@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chui": {
+      "type": "http",
+      "url": "https://mcp.chui.io"
+    }
+  }
+}

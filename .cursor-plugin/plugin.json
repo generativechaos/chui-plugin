@@ -1,0 +1,22 @@
+{
+  "name": "chui",
+  "version": "1.0.0",
+  "description": "Chui, the meeting recorder that works in the language of the meeting, in your assistant: search every meeting you recorded and quote what was said, read summaries and transcripts, and correct, share and organise meetings, people and settings in your own words. Sign in with your Chui account; no API key.",
+  "author": {
+    "name": "Generative Chaos LLC",
+    "email": "support@chui.io",
+    "url": "https://chui.io"
+  },
+  "homepage": "https://chui.io",
+  "repository": "https://github.com/generativechaos/chui-plugin",
+  "license": "MIT",
+  "keywords": [
+    "chui",
+    "chui.io",
+    "chui meetings",
+    "chui mcp"
+  ],
+  "displayName": "Chui",
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "chui",
+  "description": "Chui, the meeting recorder that works in the language of the meeting, as a Claude Code plugin.",
+  "owner": {
+    "name": "Generative Chaos LLC",
+    "email": "support@chui.io"
+  },
+  "plugins": [
+    {
+      "name": "chui",
+      "source": "./",
+      "description": "Chui, the meeting recorder that works in the language of the meeting, in your assistant: search every meeting you recorded and quote what was said, read summaries and transcripts, and correct, share and organise meetings, people and settings in your own words. Sign in with your Chui account; no API key."
+    }
+  ]
+}
